@@ -2,28 +2,28 @@ Laptop Gaming Acer Nitro 5 AN515-54 cu procesor Intel® Core™ i5-9300H pana la 4.
    2.999
 Laptop Apple MacBook Air 13 cu procesor Intel® Dual Core™ i5 1.80GHz, 13.3", 8GB, 128GB SSD, Intel® HD Graphics 6000, INT KB, Silver
    3.999
-Laptop HP 15-da0193nq cu procesor Intel® Core™ i3-7020U 2.30 GHz, 15.6", Full HD, 8GB, 256GB SSD, Nvidia MX110 2GB, Free DOS, Black
-   1.749
+Laptop ASUS X509FA cu procesor Intel® Core™ i5-8265U pana la 3.90 GHz Whiskey Lake, 15.6", Full HD, 8GB, 512GB SSD, Intel UHD Graphics 620, Free DOS, Transparent Silver
+   2.299
 Laptop HP 15-ra060nq cu procesor Intel® Celeron® N3060 pana la 2.48 GHz, 15.6", 4GB, 500GB, DVD-RW, Intel® HD Graphics 400, FreeDOS, Black
    849
-Laptop Gaming ASUS ROG Strix G G531GV cu procesor Intel® Core™ i7-9750H pana la 4.50 GHz Coffee Lake, 15.6", Full HD, IPS, 120Hz, 16GB, 1TB SSD, NVIDIA® GeForce RTX™ 2060 6GB, Free DOS, Black
-   5.999
+Laptop HP 15-da0193nq cu procesor Intel® Core™ i3-7020U 2.30 GHz, 15.6", Full HD, 8GB, 256GB SSD, Nvidia MX110 2GB, Free DOS, Black
+   1.749
 Laptop Lenovo Ideapad L340-15API cu procesor AMD Ryzen 3 3200U pana la 3.5 GHz, 15.6, Full HD, 4GB, 256GB SSD M.2, DVD-RW, AMD Radeon Vega 3 Graphics, Free DOS, Blizzard White
    1.299
-Laptop Lenovo Ideapad S145-15IIL cu procesor Intel® Core™ i5-1035G4 pana la 3.40 GHz Ice Lake, 15.6", Full HD, 4GB, 128GB SSD, Iris Plus Graphics, Free DOS, Platinum Grey
-   1.899
+Laptop Gaming ASUS ROG Strix G G531GV cu procesor Intel® Core™ i7-9750H pana la 4.50 GHz Coffee Lake, 15.6", Full HD, IPS, 120Hz, 16GB, 1TB SSD, NVIDIA® GeForce RTX™ 2060 6GB, Free DOS, Black
+   5.999
 Laptop Gaming Lenovo Ideapad L340-15IRH cu procesor Intel® Core i5-9300H pana la 4.10 GHz, 15.6", Full HD, 4GB, 256GB SSD M.2, NVIDIA GeForce GTX 1050 3GB GDDR5, Free DOS, Black
    2.699
-Laptop Acer Aspire 3 A315-54K-380S cu procesor Intel® Core™ i3-7020U 2.30 GHz, 15.6", Full HD, 4GB, 1TB HDD, Intel HD Graphics 620, Linux, Black
-   1.399
+Laptop Lenovo Ideapad S145-15IIL cu procesor Intel® Core™ i5-1035G4 pana la 3.40 GHz Ice Lake, 15.6", Full HD, 4GB, 128GB SSD, Iris Plus Graphics, Free DOS, Platinum Grey
+   1.899
 Laptop ASUS VivoBook 15 X512UA cu procesor Intel® Core™ i3-7020U Kaby Lake, 15.6", Full HD, 4GB, 128GB SSD, Intel® HD graphics 620, Windows 10 Home S, Slate Gray
    1.799
-Laptop HP 250 G7 cu procesor Intel® Core™ i5-8265U pana la 3.90 GHz, Whiskey Lake, 15.6", Full HD, 8GB, 256GB SSD, NVIDIA GeForce MX110 2GB, Microsoft Windows 10 Pro, Dark Ash Silver
-   2.999
+Laptop Acer Aspire 3 A315-54K-380S cu procesor Intel® Core™ i3-7020U 2.30 GHz, 15.6", Full HD, 4GB, 1TB HDD, Intel HD Graphics 620, Linux, Black
+   1.399
 Laptop Lenovo Ideapad S145-15IIL cu procesor Intel® Core™ i5-1035G4 pana la 3.70 GHz Ice Lake, 15.6", Full HD, 8GB, 256GB SSD, Intel® Iris® Plus Graphics, Free DOS, Platinum Grey
    2.149
-Laptop ASUS X509FA cu procesor Intel® Core™ i3-8145U pana la 3.90 GHz Whiskey Lake, 15.6", Full HD, 8GB, 256GB SSD, Intel UHD Graphics 620, Free Dos, Slate Gray
-   1.699
+Laptop HP 250 G7 cu procesor Intel® Core™ i5-8265U pana la 3.90 GHz, Whiskey Lake, 15.6", Full HD, 8GB, 256GB SSD, NVIDIA GeForce MX110 2GB, Microsoft Windows 10 Pro, Dark Ash Silver
+   2.999
 Laptop 2 in 1 Lenovo Miix 320-10ICR cu procesor Intel® Atom™ x5-Z8350 1.92 GHz, 10.1" HD, IPS, 4GB, 64GB eMMC, LTE/4G, Windows 10 Home, Platinum silver
    999
 Laptop Gaming Lenovo Legion Y7000 cu procesor Intel® Core i5-9300H pana la 4.10 GHz, 15.6", Full HD, IPS, 8GB, 256GB SSD M.2, NVIDIA GeForce GTX 1650 4GB GDDR5, Free DOS, Black
@@ -47,13 +47,11 @@ Laptop Gaming ASUS ROG G G531GT cu procesor Intel® Core™ i5-9300H pana la 4.10 G
 Laptop ultraportabil HP 14s-dq0001nq cu procesor Intel® Celeron™ N4000 pana la 2.60 GHz Gemini Lake, 14", HD, 4GB, 128GB SSD, Intel® UHD Graphics 600, Windows 10 Home S, Natural silver
    1.399
 Laptop Gaming ASUS TUF FX505DU cu procesor AMD Ryzen 5 3550H pana la 3.70 GHz, 15.6", Full HD, 120Hz, 8GB, 512GB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Stealth Black
-   4.499
+   3.799
 Laptop Gaming ASUS ROG Mothership GZ700GX cu procesor Intel® Core™ i9-9980HK pana la 5.00 GHz Coffee Lake, 17.3", Full HD, IPS, 144Hz, G-Sync, 64GB, 1.5TB SSD, NVIDIA® GeForce RTX™ 2080 8GB, Windows 10, Black
    29.999
 Laptop ultraportabil Lenovo Ideapad S540-14IML Intel® Core™ i7-10510U pana la 4.90 GHz Comet Lake, 14", Full HD, IPS, 8GB, 512GB SSD, NVIDIA GeForce MX250 2GB, NVIDIA GeForce MX250 2GB, Free DOS, Abyss Blue
    3.599
-Laptop Lenovo Ideapad L340-15API cu procesor AMD Ryzen 3 3200U pana la 3.5 GHz, 15.6", Full HD, 8GB, 256GB SSD, DVD-RW, AMD Radeon Vega 3 Graphics, Free DOS, Abyss Blue
-   1.599
 Laptop Gaming Lenovo Legion Y540-15IRH cu procesor Intel® Core i5-9300H pana la 4.10 GHz, 15.6", Full HD, 144Hz, 8GB, 512GB SSD M.2, NVIDIA GeForce RTX 2060 6GB, Free DOS, Black
    4.899
 Laptop Gaming ASUS ROG Strix G G531G cu procesor Intel® Core™ i7-9750H pana la 4.50 GHz Coffee Lake, 15.6", Full HD, 120Hz, IPS, 8GB, 1TB SSD, NVIDIA GeForce GTX 1650 4GB, Free DOS, Black
@@ -64,6 +62,8 @@ Laptop Gaming Lenovo Legion Y540-17IRH cu procesor Intel® Core™ i7-9750H pana la
    5.949
 Laptop gaming ASUS ROG Strix G G731GV cu procesor Intel® Core™ i7-9750H pana la 4.50 GHz Coffee Lake, 17.3", Full HD, IPS, 120Hz, 16GB, 512GB SSD, NVIDIA® GeForce RTX™ 2060 6GB, Free DOS, Black
    6.199
+Laptop ASUS X509FA cu procesor Intel® Core™ i3-8145U pana la 3.90 GHz Whiskey Lake, 15.6", Full HD, 8GB, 256GB SSD, Intel UHD Graphics 620, Free Dos, Slate Gray
+   1.699
 Laptop ultraportabil ASUS ZenBook Pro Duo UX581GV cu procesor Intel® Core™ i7-9750H pana la 4.50 GHz Coffee Lake, 15.6", 4K, 16GB, 512GB SSD, NVIDIA GeForce RTX 2060 6GB, Windows 10 Pro, Celestial Blue
    11.799
 Laptop ultraportabil ASUS ZenBook Pro Duo UX581GV cu procesor Intel® Core™ i9-9980HK pana la 5.00 GHz Coffee Lake, 15.6", 4K, 32GB, 1TB SSD M.2, NVIDIA GeForce RTX 2060 6GB, Windows 10 Pro, Celestial Blue
@@ -102,6 +102,8 @@ Laptop Gaming Lenovo Ideapad L340-15IRH cu procesor Intel® Core i7-9750H pana la
    3.399
 Laptop ultraportabil HP ENVY 13-aq1004nq cu procesor Intel® Core™ i5-10210U pana la 4.20 GHz Comet Lake, 13.3", Full HD, IPS, 8GB, 256GB SSD, NVIDIA® GeForce® MX250 2GB, Windows 10 Home, Black
    3.899
+Laptop Gaming ASUS TUF FX505DU cu procesor AMD Ryzen 7 3750H pana la 4.00 GHz, 15.6", Full HD, 120GHz, 16GB, 512GB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Stealth Black
+   4.449
 Laptop ultraportabil Asus ZenBook 14 UX434FLC cu procesor Intel® Core™ i7-10510U pana la 4.90 GHz Comet Lake, 14", Full HD, 16GB, 512GB SSD, NVIDIA GeForce MX250 2GB, Windows 10 Home, Icicle Silver
    5.799
 Laptop ultraportabil Huawei MateBook 13 cu procesor Intel® Core® i5-8265U pana la 3.90 GHz Whiskey Lake, 13", Full HD, IPS, 8GB, 512GB SSD, NVIDIA GeForce MX250 2GB, Windows 10 Home, Grey
@@ -113,8 +115,6 @@ Laptop Gaming Lenovo Legion Y7000 cu procesor Intel® Core i7-9750H pana la 4.50 
 Laptop HP 15-db1023nq cu procesor AMD Ryzen™ 3 3200U pana la 3.50 GHz, 15.6", HD, 4GB, 128GB SSD, AMD Radeon™ Vega 3, Free DOS, Black
    1.299
 Laptop Gaming ASUS ROG Zephyrus S GX502GV cu procesor Intel® Core™ i7-9750H pana la 4.50 GHz Coffee Lake, 15.6", Full HD, 240Hz, IPS, 16GB, 512GB SSD, NVIDIA® GeForce RTX™ 2060 6GB, Windows 10 Home, Brushed Black
-   9.899
+   8.199
 Laptop ASUS X509FB cu procesor Intel® Core™ i3-8145U 3.90 GHz Whiskey Lake, 15.6", Full HD, 4GB, 1TB HDD, NVIDIA GeForce MX110 2GB, Endless OS, SLATE GRAY
    1.699
-Laptop ultraportabil Huawei MateBook X Pro cu procesor Intel® Core® i7-8565U pana la 4.60 GHz Whiskey Lake, 13.9", 3K, Touch, 8GB, 512GB SSD, NVIDIA GeForce MX250 2GB, Windows 10 Home, Grey
-   6.799
